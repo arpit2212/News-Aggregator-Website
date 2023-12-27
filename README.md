@@ -1,6 +1,6 @@
 # News Aggregator Website
 
-link to webiste : [demo](https://news-aggrigator.netlify.app/)
+ [demo](https://news-aggrigator.netlify.app/) link to webiste : https://news-aggrigator.netlify.app/
 
 ![demo image](https://github.com/arpit2212/News-Aggregator-Website/blob/main/Screenshot%202023-12-27%20183706.png)
 
